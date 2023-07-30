@@ -1,7 +1,6 @@
 # Password Assessor
 
-![GitHub License](https://img.shields.io/github/license/g0nchy/password-assesor)
-
+![GitHub License](https://img.shields.io/github/license/g0nchy/password-assessor)
 
 This is a simple command-line password assessor program written in C. I developed it while doing the CS50x course, which is Harvard's Introduction to Computer Science from HarvardX. The program evaluates the strength of a user-provided password based on various criteria such as length, the presence of uppercase and lowercase letters, numbers, and special characters.
 
@@ -37,6 +36,10 @@ The estimated times to crack passwords mentioned in this program are based on da
 
 This code is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the code as per the terms of the license.
 
+## Future Plans
+
+I plan to create a version 2.0 of `password-assessor` in the future. The new version will aim to provide even better password assessment capabilities by incorporating additional libraries and advanced methods to calculate the password strength and suggest improvements. Stay tuned for the upcoming updates!
+
 ## Contributions
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
@@ -44,4 +47,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Acknowledgments
 
 Special thanks to the CS50 Library for providing the `cs50.h` header used in this project.
-
