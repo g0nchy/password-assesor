@@ -1,6 +1,6 @@
 # Password Assessor
 
-[![GitHub License](https://img.shields.io/github/license/g0nchy/password-assessor)](https://github.com/g0nchy/password-assessor/)
+[![GitHub License](https://github.com/g0nchy/password-assessor/blob/master/LICENSE)
 
 This is a simple command-line password assessor program written in C. I developed it while doing the CS50x course, which is Harvard's Introduction to Computer Science from HarvardX. The program evaluates the strength of a user-provided password based on various criteria such as length, the presence of uppercase and lowercase letters, numbers, and special characters.
 
