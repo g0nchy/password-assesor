@@ -22,6 +22,12 @@ This is a simple command-line password assessor program written in C. I develope
 
 **Note:** The password strength criteria can be adjusted by modifying the constants (e.g., WEAK_PASSWORD_THRESHOLD, POOR_PASSWORD_THRESHOLD, etc.) in the code.
 
+## Verbose Mode
+
+You can also run the program with the `-v` or `--verbose` flag to display verbose information about the password, including the number of uppercase letters, lowercase letters, numbers, and special characters.
+
+Examples: `./password-assesor -v` or `./password-assessor --verbose`
+
 ## Dependencies
 
 This project uses the CS50 library to handle user input. To compile and run the program, you'll need to have the CS50 library installed on your system.
